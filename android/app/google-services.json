@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "861099239061",
+    "firebase_url": "https://ivcboxapp.firebaseio.com",
+    "project_id": "ivcboxapp",
+    "storage_bucket": "ivcboxapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861099239061:android:bfa483c55e9777e8",
+        "android_client_info": {
+          "package_name": "com.ivcbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861099239061-mb2qorih0hjjdhibqe9ogckrcdi06cpk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKcVarRhTBK2MnqwczP66SAPa6wEd905A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861099239061-mb2qorih0hjjdhibqe9ogckrcdi06cpk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

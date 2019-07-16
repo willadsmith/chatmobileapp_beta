@@ -1,0 +1,27 @@
+{
+    "root": true,
+    "parserOptions": {
+        "ecmaVersion": 7,
+        "sourceType": "module"
+    },
+    "extends": [
+        "react-app"
+    ],
+    "parser": "typescript-eslint-parser",
+    "plugins": [
+        "typescript"
+    ],
+    "rules": {
+        "jsx-a11y/href-no-hash": "off",
+        "jsx-a11y/anchor-is-valid": ["warn", { "aspects": ["invalidHref"] }],
+        "semi": [2, "always"],
+        "indent": ["error", 4, {"SwitchCase": 1}],
+        "space-before-function-paren": ["error", "always"],
+        "no-confusing-arrow": ["off", {"allowParens": true}],
+        "complexity": ["error", { "max": 40 }],
+        "handle-callback-err": ["off"],
+        "eol-last": ["error"],
+        "space-infix-ops": [0, {"int32Hint": false}],
+        "object-literal-sort-keys": false
+    }
+}

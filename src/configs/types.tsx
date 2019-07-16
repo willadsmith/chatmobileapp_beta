@@ -1,0 +1,9 @@
+export const START = '_START';
+export const FAIL = '_FAIL';
+export const SUCCESS = '_SUCCESS';
+export const SAVE = '_SAVE';
+export const SAGA = 'SAGA';
+export const LOADING = 'LOADING';
+export const LOADED = 'LOADED';
+export const REFRESH = 'REFRESH';
+export const REFRESH_REQUEST = 'REFRESH';
