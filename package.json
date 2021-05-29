@@ -87,7 +87,7 @@
     "tslint-config-prettier": "^1.17.0",
     "tslint-react": "^3.6.0",
     "typescript-eslint-parser": "^21.0.1",
-    "ws": "^6.2.1"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "babel-jest": "23.6.0",
